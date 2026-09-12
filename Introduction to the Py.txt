@@ -1,0 +1,11 @@
+What is Python?
+Python is a programming language that helps us write instructions that a computer can understand and execute.
+
+Comments in Python
+A comment is a piece of text in your code that is written for humans to understand the code. The computer does not execute it.
+ 
+How do I write comments in Python.
+just add # infront of your text yeah that it.
+
+
+Variables and types
